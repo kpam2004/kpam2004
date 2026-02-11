@@ -34,7 +34,7 @@
 - 💻 **Full-Stack Web Developer** with a passion for AI integrations and scalable backend systems
 - 🧠 **Strong DSA & Problem Solver** — Competitive programming and system design enthusiast
 - 🤖 **AI Integration Specialist** — Experience with LLM APIs (Groq, GPT), prompt engineering, and ML workflows
-- 🔍 **Architecture-focused** — Interest in backend systems, microservices, and API design
+- 🔍 **Architecture-focused** — Interest in frontend systems, microservices, and API design
 - 📍 Based in **Bengaluru, India**  
 
 ---
