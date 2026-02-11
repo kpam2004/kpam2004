@@ -32,7 +32,6 @@
 
 - 🎓 **B.E. in Information Science & Engineering** — New Horizon College of Engineering (2026)
 - 💻 **Full-Stack Web Developer** with a passion for AI integrations and scalable backend systems
-- 🚀 **Python Developer Intern** at Fincept (TLK Industries) — Built production-level financial data systems
 - 🧠 **Strong DSA & Problem Solver** — Competitive programming and system design enthusiast
 - 🤖 **AI Integration Specialist** — Experience with LLM APIs (Groq, GPT), prompt engineering, and ML workflows
 - 🔍 **Architecture-focused** — Interest in backend systems, microservices, and API design
@@ -79,22 +78,6 @@
   <img src="https://img.shields.io/badge/VS Code-Expert-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-Advanced-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 </p>
-
----
-
-## 💼 Professional Experience
-
-### **Python Developer Intern** — Fincept (TLK Industries Pvt. Ltd.)
-📅 **October 2025 – November 2025** | 📍 Surat, India
-
-**Responsibilities:**
-- Developed production-grade backend modules using **Python** for financial data processing applications
-- Integrated and optimized **financial APIs**: Alpha Vantage, Yahoo Finance, FRED
-- Improved application performance and scalability through efficient data pipeline design
-- Gained hands-on exposure to production-level backend architecture and deployment workflows
-- Collaborated with cross-functional teams on API design and data validation
-
-**Technologies:** Python, REST APIs, Data Processing, MySQL, Git
 
 ---
 
@@ -154,35 +137,13 @@
 ## 📊 GitHub Analytics & Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kpam2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kpam2004&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kpam2004&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 </p>
-
----
-
-## � Education
-
-| **Degree** | **Institution** | **Duration** | **Specialization** |
-|-----------|-----------------|-------------|-------------------|
-| **B.E. Information Science & Engineering** | New Horizon College of Engineering, Bengaluru | 2022–2026 | Backend Systems, AI/ML, DSA |
-| **Senior Secondary (XII)** | G.D. Goenka Public School, Siliguri | 2020–2022 | Scored 65.3% |
-
----
-
-## 🏆 Certifications & Training
-
-### 🎖️ Professional Certifications
-- ✅ **IBM SkillsBuild** – Enterprise Data Science in Practice
-- ✅ **Infosys Springboard** – Machine Learning Implementation  
-- ✅ **JNCIA-Junos** – Networking & Security Certification
-- ✅ **Android App Development** – IIT Bombay Online Course
-- ✅ **NPTEL** – Software Testing and Quality Assurance
-- ✅ **Flipkart GRiD 6.0** – Innovation & Tech Competition Participant
-- ✅ **Tata Crucible Campus Quiz** – National Level Participant
 
 ---
 
@@ -215,13 +176,13 @@ I'm actively seeking opportunities in:
   <a href="mailto:kpamnani783@gmail.com">
     <img src="https://img.shields.io/badge/Email-kpamnani783%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/kpam2004">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/krishnapamnani">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.codechef.com/users/YOUR_CODECHEF">
+  <a href="https://www.codechef.com/users/nhce1nh22is071">
     <img src="https://img.shields.io/badge/CodeChef-Profile-5B4D3F?style=for-the-badge&logo=codechef&logoColor=white">
   </a>
 </p>
