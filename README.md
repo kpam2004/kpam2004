@@ -106,7 +106,7 @@
 *Advanced implementation of classic game with infinite board expansion*
 
 **Key Features:**
-- 🎮 **Dynamic Board Expansion**: Scalable from 3×3 → 4×4 → 5×5 → NxN
+- 🎮 **Dynamic Board Expansion**: Scalable from 3×3 → 4×4 → 5×5 → N×N
 - 🏗️ **OOP Architecture**: Fully object-oriented design with clean separation of concerns
 - ✅ **Intelligent Game Logic**: Automated win detection, draw logic, and input validation
 - 🎯 **Scalable Gameplay**: Configurable board size and difficulty levels
