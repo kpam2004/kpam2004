@@ -173,27 +173,6 @@ I'm actively seeking opportunities in:
 
 ---
 
-## 🔗 Let's Connect!
-
-<p align="center">
-  <a href="mailto:kpamnani783@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kpamnani783%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://github.com/kpam2004">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/krishnapamnani">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://www.codechef.com/users/nhce1nh22is071">
-    <img src="https://img.shields.io/badge/CodeChef-Profile-5B4D3F?style=for-the-badge&logo=codechef&logoColor=white">
-  </a>
-</p>
-
-**Let's build something amazing together! Feel free to reach out for collaborations or just to chat about tech.** 🚀
-
----
-
 ## ⭐ Show Your Support
 
 If you find my projects helpful or my work interesting, consider:
