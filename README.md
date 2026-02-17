@@ -1,11 +1,11 @@
 <!-- =========================
    GITHUB PROFILE README
    Krishna Pamnani
-   Full-Stack Developer | AI Enthusiast
+   Front-End Developer | AI Enthusiast
 ========================= -->
 
 <h1 align="center">👋 Hi, I'm Krishna Pamnani</h1>
-<h3 align="center">Full-Stack Developer • AI Enthusiast • Information Science Engineer (2026)</h3>
+<h3 align="center">Front-End Developer • AI Enthusiast • Information Science Engineer (2026)</h3>
 
 <p align="center">
   <b>"Building intelligent systems that solve real-world problems"</b>
@@ -34,7 +34,7 @@
 ## 🎯 About Me
 
 - 🎓 **B.E. in Information Science & Engineering** — New Horizon College of Engineering (2026)
-- 💻 **Full-Stack Web Developer** with a passion for AI integrations and scalable backend systems
+- 💻 **Front-End Web Developer** with a passion for AI integrations and scalable backend systems
 - 🧠 **Strong DSA & Problem Solver** — Competitive programming and system design enthusiast
 - 🤖 **AI Integration Specialist** — Experience with LLM APIs (Groq, GPT), prompt engineering, and ML workflows
 - 🔍 **Architecture-focused** — Interest in frontend systems, microservices, and API design
