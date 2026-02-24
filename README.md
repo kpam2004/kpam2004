@@ -127,7 +127,6 @@
 - 🏆 **Global Leaderboard System**: Real-time competitive engagement and gamification
 - 📊 **Progress Analytics**: Detailed learning metrics and achievement tracking
 - 🔐 **Supabase Integration**: Secure data management and user authentication
-- 👥 **Social Features**: Community interaction, peer learning, and discussion forums
 
 **Tech Stack:** React (Frontend), Supabase (Backend), MongoDB, REST APIs
 
